@@ -1,2 +1,6 @@
-package ModelElements;public class Texture {
+package ModelElements;
+
+public class Texture {
+
+  Texture T = new Texture();
 }

@@ -1,15 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="99b28c6f-a58e-4e92-a895-59366c16a5ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InMemoryModel/IModelChanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModelElements/Poligon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModelElements/Texture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InMemoryModel/ModelStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InMemoryModel/ModelStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InMemoryModel/iModelChangeObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InMemoryModel/IModelChangeObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InMemoryModel/iModelChanger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModelElements/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModelElements/Flash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/Flash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModelElements/PoligonalModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/PoligonalModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ModelElements/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/Scene.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -18,6 +40,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2St8KGnKvO8POYhks80N2NIwYQl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +51,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/nik/Desktop/Архитектура ПО/ArcSoftware/Arch3294/Seminar_1_Editor3D"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/nik/Desktop/Архитектура ПО/ArcSoftware/Arch3294/Seminar_1_Editor3D",
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
