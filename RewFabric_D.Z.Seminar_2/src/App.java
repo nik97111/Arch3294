@@ -6,6 +6,7 @@ import Rewards.GoldFabric;
 import Rewards.PlatinumFabric;
 import Rewards.SilverFabric;
 import Rewards.VelvetFabric;
+import Rewards.SilkFabric;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
@@ -27,7 +28,7 @@ public class App {
         fab6.openReward();
         itemGenerator fab7 = new VelvetFabric();
         fab7.openReward();
-        itemGenerator fab8 = new VelvetFabric();
+        itemGenerator fab8 = new SilkFabric();
         fab8.openReward();
 //        System.out.println("Hello, World!");
 
