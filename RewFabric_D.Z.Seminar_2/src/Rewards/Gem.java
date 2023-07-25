@@ -2,10 +2,10 @@ package Rewards;
 
 import Classes.iGameItem;
 
-public class Platinum implements iGameItem {
+public class Gem implements iGameItem {
 
   @Override
   public void open() {
-    System.out.println("Platinum");
+    System.out.println("Gem");
   }
 }
