@@ -1,24 +1,20 @@
 package ModelElements;
 
-import InMemoryModel.ModelStore;
+import Stuff.Angle3D;
+import Stuff.Point3D;
+import java.awt.Color;
 
 public class Flash {
-    public Point3d location;
-    public Angle3d angle;
-    public Color color;
-    public Float power;
+  public Point3D location;
+  public Angle3D angle;
+  public Color color;
+  public Float power;
 
-    public void rotate(Angle3D) {
-        return;
-    }
-    public void move(Point3D) {
-        return;
-    }
+  public void rotate(Angle3D angle) {
 
-    public Flash(Scene S) {
-        this.scene = S;
-    }
-    public Flash(ModelStore MS) {
-        this.MS = new ModelStore();
-    }
+  }
+
+  public void move(Point3D point) {
+
+  }
 }

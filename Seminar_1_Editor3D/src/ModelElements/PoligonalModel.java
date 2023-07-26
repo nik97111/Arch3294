@@ -1,26 +1,14 @@
 package ModelElements;
 
-import InMemoryModel.ModelStore;
+import java.util.ArrayList;
+import java.util.List;
 
 public class PoligonalModel {
-    public Poligon poligons;
-    public Texture textures;
-
-    /* агрегация (class Texture) */
-    public PoligonalModel(Texture T) {
-        this.textures = T;
+    public ArrayList<Poligon> poligons;
+    public List<Texture> textures;
+    public PoligonalModel(List<Texture> textures) {
+        this.textures = textures;
+        this.poligons = new ArrayList<Poligon>();
     }
 
-    /* композиция (class Poligon) */
-    public PoligonalModel(Poligon P) {
-        this.poligons = new Poligon();
-    }
-
-    public PoligonalModel(Scene S) {
-        this.scene = S;
-    }
-
-    public PoligonalModel(ModelStore MS) {
-        this.MS = new ModelStore();
-    }
 }
