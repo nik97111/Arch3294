@@ -1,2 +1,7 @@
-package Classes;public interface Refueling {
+package Classes;
+
+public interface IRefueling {
+
+  void fuel();
+
 }

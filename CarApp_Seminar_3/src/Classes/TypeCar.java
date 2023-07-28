@@ -1,2 +1,5 @@
-package Classes;public enum TypeCar {
+package Classes;
+
+public enum TypeCar {
+  sedan, pickup
 }
