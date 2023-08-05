@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99b28c6f-a58e-4e92-a895-59366c16a5ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stuff/Angle3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stuff/Point3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InMemoryModel/ModelStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InMemoryModel/ModelStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModelElements/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/Camera.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModelElements/Flash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/Flash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModelElements/Poligon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/Poligon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModelElements/PoligonalModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/PoligonalModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModelElements/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/Scene.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ModelElements/Texture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ModelElements/Texture.java" afterDir="false" />
-    </list>
+    <list default="true" id="99b28c6f-a58e-4e92-a895-59366c16a5ae" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
